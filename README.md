@@ -8,4 +8,5 @@ More about the data
 1.(global_active_power*1000/60 - sub_metering_1 - sub_metering_2 - sub_metering_3) represents the active energy consumed every minute (in watt hour) in the household by electrical equipment not measured in sub-meterings 1, 2 and 3.  
 2.The dataset contains some missing values in the measurements (nearly 1,25% of the rows). All calendar timestamps are present in the dataset but for some timestamps, the measurement values are missing: a missing value is represented by the absence of value between two consecutive semi-colon attribute separators. 
 
-In this project, I analysis electricity consumption data using seven models.The RMSE of each models are over here.
+In this project, I analysis electricity consumption data using seven models.The RMSE of each models are over here.  
+![image](https://github.com/Chris-Zouchenyu/LSTM-Research-on-electricity-consumption-data/blob/main/picture/table.png)
